@@ -34,14 +34,7 @@ The purpose of our app is to allow users to add plants to their online garden an
 #### Server & Client .env information stored here: 
 https://docs.google.com/document/d/12g1ZreNIKPxC5CjBjS5A4CKYUGV3JYufY2xj9aawDiQ/edit?usp=sharing
 
-### To login as a paid user use this email:
-
-Gmail: plantpal264@gmail.com
-Password: WebDevel0pment2024
-
 ### To login in as an unpaid user, use your email
-
-
 
 ### RUN BOTH CLIENT AND SERVER AT SAME TIME
 
